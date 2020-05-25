@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+    </head>
+    <body>
+        <script>
+        function alertFunc() {
+          alert("You are now leaving this website!");
+        }
+        </script>
+        <div class="header">
+            <h1 class="title">News Website</h1>
+            <div id="navigation"><table>
+                <tr>
+                    <td><a class="btn btn-primary" href="index.html">Home</a></td>
+                    <td><a class="btn btn-primary" href="about.html">About</a></td>
+                    <td><a class="btn btn-primary" href="links.html">Important Links</a></td>
+                    <td><a class="btn btn-primary" href="news.html">News and Events</a></td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <h2 class="display-4"> Welcome to the website for and about news:</h2>
+
+        <div class="card" style="width: 60rem;">
+          <img src="reuters-logo.png" class="card-img-top" alt="Reuters Logo">
+          <div class="card-body">
+            <h5 class="card-title">Largest news suppliere</h5>
+            <p class="card-text">The largest supplier of international video news is Reuters TV, with 409 subscribers in 83 countries, 38 bureaus, and a reported audience of 1.5 billion people each day.</p>
+            <a href="https://www.reuters.com/news/world" class="btn btn-primary" onclick="alertFunc();">Visit Reuters</a>
+          </div>
+        </div>
+
+        <div class="card" style="width: 60rem;">
+          <img src="paper.jpeg" class="card-img-top" alt="Reuters Logo">
+          <div class="card-body">
+            <h5 class="card-title">Oldest record of news</h5>
+            <p class="card-text">The first documented use of an organized courier service for the diffusion of written documents is in Egypt, where Pharaohs used couriers for the diffusion of their decrees in the territory of the State (2400 BC).</p>
+            <a href="https://en.wikipedia.org/wiki/History_of_newspaper_publishing" class="btn btn-primary" onclick="alertFunc();">Read more about history of newspaper</a>
+          </div>
+        </div>
+    </body>
+</html>
