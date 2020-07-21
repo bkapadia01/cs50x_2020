@@ -46,4 +46,4 @@ Web Track: https://cs50.harvard.edu/x/2020/tracks/web/
 ### Flask: Registrants
 * [Registrant](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/register): To Do List app with Registration
 ### Flask: Finance
-* [Finance](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/finance): Finance Application that allows user to buy and sell stocks  which you can manage portfolios of stocks of a user. https://cs50.harvard.edu/x/2020/tracks/web/finance/#:~:text=which%20you%20can%20manage%20portfolios%20of%20stocks.
+* [Finance](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/finance): Finance Application that allows user to buy and sell stocks  which you can manage portfolios of stocks of a user. https://cs50.harvard.edu/x/2020/tracks/web/finance/
