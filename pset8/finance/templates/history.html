@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+    <div>
+        <table>
+        <thead><tr><th>Symbol</th><th>Shares</th><th>Price</th><th>Date/Time</th></tr></thead>
+        {% for row in record %}
+            <tr>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[3] }}</td>
+            </tr>
+        {% endfor %}
+
+    </div>
+{% endblock %}

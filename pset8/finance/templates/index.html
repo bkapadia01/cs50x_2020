@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+    <div>
+        <table>
+        <thead><tr><th>Symbol</th><th>Name</th><th>Shares</th><th>Price</th><th>Total</th></tr></thead>
+        {% for row in quotes %}
+            <tr>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[3] }}</td>
+                <td>{{ row[4] }}</td>
+            </tr>
+        {% endfor %}
+            <tr><th>Cash</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="total">{{ totalCash }}</td>
+
+
+
+
+            </tr>
+            <tr><th>Holding</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="total" >{{ totalHolding }}</td>
+        </table>
+
+    </div>
+{% endblock %}
