@@ -4,6 +4,10 @@ Completed CS50x 2020 - Introduction to Computer Science
 https://cs50.harvard.edu/x/2020/
 All problmen sets are meet the 100% test correctness and style requirements of `check50` and `style50`
 
+## C 
+### Problem Set 1
+* [Mario Steps](https://github.com/bkapadia01/cs50x_2020/tree/master/pset1/mario) https://cs50.harvard.edu/x/2020/psets/1/mario/more/
+* [Credit Card](https://github.com/bkapadia01/cs50x_2020/tree/master/pset1/credit) https://cs50.harvard.edu/x/2020/psets/1/credit/
 
 ## Arrays
 ### Problem Set 2
