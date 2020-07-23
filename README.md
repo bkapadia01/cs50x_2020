@@ -42,8 +42,8 @@ Web Track: https://cs50.harvard.edu/x/2020/tracks/web/
 ### Problem Set 8
 * [Homepage](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/homepage): Homepage using HTML, CSS, Javascript: 
 ### Flask: ToDo List
-* [Todo List]()
+* [Todo List](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/todo_list): To Do List app - Python, flask
 ### Flask: Registrants
-* [Registrant]()
+* [Registrant](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/register): To Do List app with Registration
 ### Flask: Finance
-* [Finance]()
+* [Finance](https://github.com/bkapadia01/cs50x_2020/tree/master/pset8/finance): Finance Application that allows user to buy and sell stocks  which you can manage portfolios of stocks of a user. https://cs50.harvard.edu/x/2020/tracks/web/finance/
