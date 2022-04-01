@@ -2,7 +2,7 @@
 
 Completed CS50x 2020 - Introduction to Computer Science
 https://cs50.harvard.edu/x/2020/
-All problmen sets are meet the 100% test correctness and style requirements of `check50` and `style50`
+All problmen sets meet the 100% test correctness and style requirements of `check50` and `style50`
 
 ## C 
 ### Problem Set 1
